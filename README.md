@@ -30,9 +30,9 @@ This project is being developed as a browser extension using **TypeScript**, Rea
 ---
 
 ## 🧑‍💻 Author  
-**Vadim Khristenko (VAI)**
+**VAI_PROG (Vadim) (VAI)**
 
-🔗 [GitHub](https://github.com/Vadim-Khristenko) | [Telegram](https://t.me/vscreator_life)
+🔗 [GitHub](https://github.com/VAIPROG) | [Telegram](https://t.me/vscreator_life)
 
 ---
 
@@ -66,7 +66,7 @@ src/
 ## 🚀 Installation (Development)
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/Vadim-Khristenko/codeforces-redesign.git
+   git clone https://github.com/VAIPROG/codeforces-redesign.git
    ```
 
 2. Install dependencies:  
@@ -87,5 +87,5 @@ src/
 MIT License – see the [LICENSE](LICENSE) file for details.
 
 ## Contributors
-- [Vadim Khristenko](https://github.com/Vadim-Khristenko)
+- [VAI_PROG (Vadim)](https://github.com/VAIPROG)
 - [kmetama](https://github.com/kmetama)

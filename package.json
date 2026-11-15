@@ -7,19 +7,19 @@
     "Themes",
     "Customization"
   ],
-  "homepage": "https://github.com/Vadim-Khristenko/codeforces-redesign#readme",
+  "homepage": "https://github.com/VAIPROG/codeforces-redesign#readme",
   "bugs": {
-    "url": "https://github.com/Vadim-Khristenko/codeforces-redesign/issues"
+    "url": "https://github.com/VAIPROG/codeforces-redesign/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vadim-Khristenko/codeforces-redesign.git"
+    "url": "git+https://github.com/VAIPROG/codeforces-redesign.git"
   },
   "license": "MIT",
   "author": {
-    "name": "Vadim Khristenko",
+    "name": "VAI_PROG (Vadim)",
     "email": "",
-    "url": "https://github.com/Vadim-Khristenko"
+    "url": "https://github.com/VAIPROG"
   },
   "contributors": [
     {

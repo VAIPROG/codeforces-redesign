@@ -30,7 +30,7 @@ const Popup = () => {
       </main>
 
       <footer className="popup-footer">
-        <p>Создано с ❤️ Vadim Khristenko и kmetama</p>
+        <p>Создано с ❤️ VAI_PROG (Vadim) и kmetama</p>
       </footer>
     </div>
   );
